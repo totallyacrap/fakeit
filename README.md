@@ -1,2 +1,11 @@
-# fakeit
-Hello everyone, I am writing a code in Python for some interesting purpose. I am absolutely new to Github. Please forgive any typos and mistakes to introduce myself and the project.
+# FakeIt
+<p align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg">
+</p>
+
+##  📌 Fakeit
+**fakeit** is subdomain finder tool written in python for penetration tester.
+
+## ⚡LICENSE
+This project follows [MIT_License](LICENSE) 
